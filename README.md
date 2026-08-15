@@ -109,13 +109,6 @@ High-volume suppliers (15+ orders) with low on-time % are bottlenecks; low-volum
 - `README.md` — this file
 - `supply_chain.db` — the mock database (download separately from project documentation)
 
-## Next Steps / Extensions
-
-- Add a Power BI dashboard on top of these queries for visualization
-- Expand to include seasonal trends, product-level performance by supplier
-- Build a Python script to automate scorecard updates from live ERP data
-- Implement alerting for suppliers crossing performance thresholds
-
 ---
 
 **Author:** Marzie Eskandari  
